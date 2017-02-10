@@ -13,7 +13,7 @@ public class Hello_world {
 
         i = sc.nextInt();
 
-        System.out.println(i);tt
+        System.out.println(i);
     }
 
 }
