@@ -11,9 +11,7 @@ public class Hello_world {
 
         System.out.println("Hello, world!");
 
-        i = sc.nextInt();
 
-        System.out.println(i);
     }
 
 }
